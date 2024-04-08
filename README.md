@@ -12,27 +12,24 @@
 
 ### Language
 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 
 ### Store
 
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
 
 ### UI
 
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white">
 
 ### DevOps
 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 
 ## Mindset
 
-저는 개발을 할 때 항상 사용자 경험 (UX) 및 사용자 인터페이스 (UI)를 중요시 여기며 개발합니다. 사용자가 편리하고 직관적으로 서비스를 이용할 수 있도록 노력하고 있습니다.
+저는 개발을 할 때 항상 사용자 경험 (UX) 및 사용자 인터페이스 (UI)를 중요시 여기며 개발합니다. <br/>
+어떤 프로덕트를 개발하더라도 사용자가 편리하고 직관적으로 서비스를 이용할 수 있도록 노력하고 있습니다.
 
 <!-- ## 개인 프로젝트
 
@@ -45,9 +42,9 @@
 
 ## Contact
 
-- 이메일: w.shin7271@gmail.com
-- 포트폴리오: [devinus portfolio](https://devinus-portfolio.vercel.app/)
-- 블로그: [devinus tistory](https://devinus.tistory.com)
+- Email: w.shin7271@gmail.com
+- Portfolio: [devinus portfolio](https://devinus-portfolio.vercel.app/)
+- Tech Blog: [devinus tistory](https://devinus.tistory.com)
 
 <!-- hye0ngyun's profile -->
 
