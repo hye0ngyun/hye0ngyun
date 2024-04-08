@@ -1,8 +1,4 @@
-# Hi there 👋
-
-## About
-
-안녕하세요 꾸준히 발전하는 프론트엔드 개발자 신현균입니다.
+# Frontend Developer
 
 ## Stacks
 
@@ -26,10 +22,10 @@
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 
-## Mindset
+<!-- ## Mindset
 
 저는 개발을 할 때 항상 사용자 경험 (UX) 및 사용자 인터페이스 (UI)를 중요시 여기며 개발합니다. <br/>
-어떤 프로덕트를 개발하더라도 사용자가 편리하고 직관적으로 서비스를 이용할 수 있도록 노력하고 있습니다.
+어떤 프로덕트를 개발하더라도 사용자가 편리하고 직관적으로 서비스를 이용할 수 있도록 노력하고 있습니다. -->
 
 <!-- ## 개인 프로젝트
 
@@ -60,6 +56,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hye0ngyun&theme=react-dark&bg_color=20232a&hide_border=true&line=ffae32&color=918FE0" width=98%/>
 </a>
 
-<br><br><br>
+<br/><br/>
 <a style="display:inline-block; margin: 0 auto;">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhye0ngyun&count_bg=%23ffae32&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</a>
