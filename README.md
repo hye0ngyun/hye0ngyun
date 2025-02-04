@@ -1,4 +1,4 @@
-# Frontend Developer
+# Fullstack Developer
 
 ## Stacks
 
@@ -10,22 +10,39 @@
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 
-### Store
+### Database
 
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
+<img src="https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+### Storage
+
+<img src="https://img.shields.io/badge/firestorage-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+### StateManage & ContextStore
+
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white">
 
 ### UI
 
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"> <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 
-### DevOps
+### Auth
+
+<img src="https://img.shields.io/badge/Authjs-000000?style=for-the-badge&logo=Zustand&logoColor=white">
+
+### Deploy
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 
-<!-- ## Mindset
+## Mindset
 
-저는 개발을 할 때 항상 사용자 경험 (UX) 및 사용자 인터페이스 (UI)를 중요시 여기며 개발합니다. <br/>
-어떤 프로덕트를 개발하더라도 사용자가 편리하고 직관적으로 서비스를 이용할 수 있도록 노력하고 있습니다. -->
+사용자 경험(UX)과 사용자 인터페이스(UI)를 최우선으로 고려하며 개발합니다.
+
+어떤 프로덕트를 만들더라도, 사용자가 직관적이고 편리하게 서비스를 이용할 수 있도록 고민합니다.
+
+새로운 기술에 대한 배움에 열려 있으며, 다룰 수 있는 기술의 폭을 넓혀가는 동시에,
+
+탄탄한 기본기를 바탕으로 깊이 있는 이해를 추구합니다.
 
 <!-- ## 개인 프로젝트
 
